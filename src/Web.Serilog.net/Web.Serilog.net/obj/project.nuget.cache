@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1uqa1rK9g4qnILcRRcm4z+vJeDxotWG/6BhLTPyo42quGl/X0dI074fX658sV7IYRc5uBdSF1knel4BssoucQ==",
+  "dgSpecHash": "cMv7dJrC2SFHzrTXE70mlCkEDCIro+oliqGHKpF/GzAlBQjnQeJrQyAELLhgc99amzeVybcuVAzceHwihMDh4w==",
   "success": true,
-  "projectFilePath": "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
+  "projectFilePath": "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Justin\\.nuget\\packages\\mailkit\\2.6.0\\mailkit.2.6.0.nupkg.sha512",
     "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

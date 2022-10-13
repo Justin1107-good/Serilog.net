@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj": {}
+    "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj": {}
   },
   "projects": {
-    "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj": {
+    "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
+        "projectUniqueName": "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
         "projectName": "Web.Serilog.net",
-        "projectPath": "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
+        "projectPath": "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\Web.Serilog.net.csproj",
         "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
-        "outputPath": "D:\\ComPany\\Skycore\\IT_RD\\Exercise_Project\\justin-good\\src\\Web.Serilog.net\\Web.Serilog.net\\obj\\",
+        "outputPath": "C:\\Users\\Justin\\Desktop\\Serilog.net\\src\\Web.Serilog.net\\Web.Serilog.net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config",
